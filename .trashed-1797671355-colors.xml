@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="obsidian_black">#FF080808</color>
+    <color name="charcoal_surface">#FF141414</color>
+    <color name="luxury_gold">#FFD4AF37</color>
+    <color name="champagne_gold">#FFF2D675</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

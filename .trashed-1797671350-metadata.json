@@ -1,0 +1,6 @@
+{
+  "name": "Método 15 Min",
+  "description": "Apresentação oficial da videoaula complementar Método dos 15 Minutos com 17 exercícios de Kegel para controlo e resistência masculina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

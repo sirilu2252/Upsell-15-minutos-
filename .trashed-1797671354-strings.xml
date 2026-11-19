@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Método 15 Min</string>
+    <string name="content_desc_hero_image">Homem em postura de treino focado num ambiente discreto e sofisticado</string>
+    <string name="content_desc_video_mockup">Apresentação visual da videoaula digital Método dos 15 Minutos em dispositivos</string>
+    <string name="content_desc_guarantee_seal">Selo dourado de garantia incondicional de 15 dias</string>
+    <string name="checkout_open_error">Não foi possível abrir a página de pagamento. Verifique se tem um navegador instalado.</string>
+</resources>
